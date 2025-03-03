@@ -1,6 +1,6 @@
 # Backend_Intern-Assignment
 
-The admind details for login are"
+The admin details for login are
 {
   username: "johncena",
   password: 112
